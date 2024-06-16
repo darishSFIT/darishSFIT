@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Darish Dias
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat" alt="shanecoelho" /> </p>
 
@@ -14,21 +14,21 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 - 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com) | [LinkedIn](https://www.linkedin.com/in/darish-dias-3252a5178/)
 - ⚡ Fun fact: I have used every windows OS (7, 8, 10, 11) and tried every major Linux Desktop Environments (XFCE, KDE, GNOME)
 
-## 🛠️ Technologies & Tools
-
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🔥 My Stats
 
