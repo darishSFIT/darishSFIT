@@ -45,21 +45,22 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/darish-dias-3252a5178)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/DarishDias)
+[![Twitter](https://img.shields.io/badge/-X.com-1DA1F2?style=flat&logo=X&logoColor=black)](https://x.com/DarishDias)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darishdias30@gmail.com)
 
 ## 💼 Projects
 
 ### [SafeSearch](https://github.com/darishSFIT/SafeSearch)
-A search engine in the form of a web application made using python's Django framework (used for web app creation) that allows the user to search for content throughout the internet. This project also includes features such as I'm Feeling Lucky (random website), Voice Assistant, local file search and account creation.
+A search engine in the form of a web application made using python's Django framework (used for web app creation) that allows the user to search for content throughout the internet. This project also includes features such as I'm Feeling Lucky (random website), Voice Assistant, local file search and account creation. 
+
+**Skills: Django · Python (Programming Language) · HTML · Cascading Style Sheets (CSS) · Back-End Web Development**
 
 ### [Foodie](https://github.com/darishSFIT/Foodie)
 A two in one website making it simpler for local restaurants business to grow online and making it easier to book (tables) and order (food) through various payment means. The project was made using React.js for frontend as well as Node.js and Express for backend and MongoDB for database.
 
+**Skills: Web Development · Front-End Development · React.js · Back-End Web Development · Node.js**
+
 ### [FRAS](https://github.com/darishSFIT/FRAS)
 A Face Recognition based Attendance tracking and recording System made using python and Machine Learning which can be used to track and save student(s) attendance in an automated fashion replacing the traditional method which involved manual entry of attendances by the class teacher.
 
-<!-- Add more projects as needed -->
-
-## 💬 Blog Posts
-
+**Skills: Python (Programming Language) · Machine Learning**
