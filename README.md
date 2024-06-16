@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Darish Dias
 
-![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat" alt="shanecoelho" /> </p>
+
+ ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud Computing as well as Web Development. Here you'll find my projects, contributions, and more about my work.
 
