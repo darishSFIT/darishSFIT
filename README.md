@@ -67,4 +67,5 @@ A Face Recognition based Attendance tracking and recording System made using pyt
 
 ### [Smart Car Parking](https://github.com/darishSFIT/SmartCarParking)
 This system seeks to optimize parking space utilization, improve traffic flow, and enhance user experience by providing real-time parking availability updates, automated entry/exit control, and efficient management of parking spaces.
+
 **Skills: Python (Programming Language) · Arduino Programming (C++)**
