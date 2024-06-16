@@ -61,6 +61,10 @@ A two in one website making it simpler for local restaurants business to grow on
 **Skills: Web Development · Front-End Development · React.js · Back-End Web Development · Node.js**
 
 ### [FRAS](https://github.com/darishSFIT/FRAS)
-A Face Recognition based Attendance tracking and recording System made using python and Machine Learning which can be used to track and save student(s) attendance in an automated fashion replacing the traditional method which involved manual entry of attendances by the class teacher.
+A Face Recognition based Attendance tracking and recording System made using python and Machine Learning which can be used to track and save student(s) attendance in an automated fashion replacing the traditional method which involved manual entry of attendances by the class teacher
 
 **Skills: Python (Programming Language) · Machine Learning**
+
+### [Smart Car Parking](https://github.com/darishSFIT/SmartCarParking)
+This system seeks to optimize parking space utilization, improve traffic flow, and enhance user experience by providing real-time parking availability updates, automated entry/exit control, and efficient management of parking spaces.
+**Skills: Python (Programming Language) · Arduino Programming (C++)**
