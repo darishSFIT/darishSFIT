@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat" alt="shanecoelho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat" alt="darishSFIT" /> </p>
 
  ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 - 🌱 I’m currently learning Web Development, Cloud Computing, DevOps
 - 👯 I’m looking to collaborate on web dev and cloud as well DevOps related projects in order to learn and improve.
 - 💬 Ask me about Operating Systems and (Windows/Linux/UNIX) related queries regarding troubleshotting.
-- 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com) | [LinkedIn](https://www.linkedin.com/in/darish-dias-3252a5178/)
+- 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com)
 - ⚡ Fun fact: I have used every windows OS (7, 8, 10, 11) and tried every major Linux Desktop Environments (XFCE, KDE, GNOME)
 
 ### 💻 Tech Stack:
@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![GitHub](https://img.shields.io/badge/GitHub-282e42?style=for-the-badge&logo=github&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🔥 My Stats
@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/darish-dias-3252a5178)
-[![Twitter](https://img.shields.io/badge/-X.com-1DA1F2?style=flat&logo=X&logoColor=black)](https://x.com/DarishDias)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/darishdias)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darishdias30@gmail.com)
+[![Twitter](https://img.shields.io/badge/-X.com-13151c?style=flat&logo=X&logoColor=white)](https://x.com/DarishDias)
 
 ## 💼 Projects
 
