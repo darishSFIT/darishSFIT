@@ -1,8 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat" alt="darishSFIT" /> </p>
-
- ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud Computing as well as Web Development. Here you'll find my projects, contributions, and more about my work.
 
@@ -13,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 - 💬 Ask me about Operating Systems and (Windows/Linux/UNIX) related queries regarding troubleshotting.
 - 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com)
 - ⚡ Fun fact: I have used every windows OS (7, 8, 10, 11) and tried every major Linux Desktop Environments (XFCE, KDE, GNOME)
+
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
