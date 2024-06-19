@@ -1,5 +1,5 @@
-<div align="center">
-		<img src="/images/header.svg" alt="custom animated svg">
+<div align="center"> 
+	<img src="https://imgur.com/r49aA06.png" alt="header"> 
 </div>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
