@@ -1,7 +1,5 @@
 <div align="center">
-	<a href="https://github.com/darishSFIT/media/header.svg">
-		<img src="/images/header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
+		<img src="/images/header.svg" alt="custom animated svg">
 </div>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
