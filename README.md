@@ -1,3 +1,7 @@
+<div align="center" >
+  <img src="https://imgur.com/r49aA06.png" alt="banner" >
+</div>
+
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
